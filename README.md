@@ -5,7 +5,7 @@ Front End Developer
 -------------------
 
 * 🌍  I'm based in Egypt, Damietta
-* ✉️  You can contact me at [as11bs22@gmail.com](mailto:asultan.dev@gmail.com)
+* ✉️  You can contact me at [asultan.dev@gmail.com](mailto:asultan.dev@gmail.com)
 * 🧠  Currently I'm learning NextJS, Tailwind
 
 ### Skills
