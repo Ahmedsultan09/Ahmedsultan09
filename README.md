@@ -6,7 +6,7 @@ Front End Developer
 
 * 🌍  I'm based in Egypt, Damietta
 * ✉️  You can contact me at [as11bs22@gmail.com](mailto:asultan.dev@gmail.com)
-* 🧠  I'm learning SCSS, Tailwind, Vue, React, JQuery
+* 🧠  Currently I'm learning NextJS, Tailwind
 
 ### Skills
 
