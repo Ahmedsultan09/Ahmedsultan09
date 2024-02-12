@@ -4,9 +4,9 @@ Hi 👋 My name is Ahmed Sultan
 Front End Developer
 -------------------
 
-* 🌍  I'm based in Egypt, Damietta
+* 🌍  I'm based in Egypt, Damietta, living in Cairo
 * ✉️  You can contact me at [asultan.dev@gmail.com](mailto:asultan.dev@gmail.com)
-* 🧠  Currently I'm learning NextJS, Tailwind
+* 🧠  Currently I'm learning NextJS
 
 ### Skills
 
